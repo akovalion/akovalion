@@ -1,4 +1,4 @@
-## Aleksei Kovalev
+![Aleksei Kovalev - QA Automation Engineer](assets/banner.png)
 
 QA Automation Engineer. I build test automation from scratch, and I make sure neither a suite nor an AI agent ever reports "it works" without proof.
 
