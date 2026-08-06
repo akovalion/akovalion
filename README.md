@@ -28,6 +28,8 @@ QA Automation Engineer. I build test automation from scratch, and I make sure ne
 
 MIT licensed. Built for my own daily work, then opened up.
 
+**[claude-code-test-gates](https://github.com/akovalion/claude-code-test-gates)** - three Claude Code hooks that stop an AI agent from committing or ending its turn while tests are red or stale. The demo stand behind my hooks article.
+
 ### What I write
 
 Articles about AI in testing on [Habr](https://habr.com/ru/users/Kova13v/), in Russian:
