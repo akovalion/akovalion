@@ -35,6 +35,7 @@ MIT licensed. Built for my own daily work, then opened up.
 Articles about AI in testing on [Habr](https://habr.com/ru/users/Kova13v/), in Russian:
 
 - [I banned Claude from saying "it works" without proof](https://habr.com/ru/articles/1058134/) - the story behind paranoid-qa
+- [Who found more bugs, the agent or me?](https://habr.com/ru/articles/1085288/) - 11 weeks logged: 277 agent hours against 213 of mine, 94 confirmed findings, what an agent-hour costs
 - [Claude Code hooks: no commit until the tests have run](https://habr.com/ru/articles/1062206/) - commit gates in practice
 - [page.waitForTimeout is just a warning](https://habr.com/ru/articles/1058692/) - why a green lint doesn't save Playwright tests
 
